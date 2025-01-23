@@ -123,7 +123,7 @@
         footer .small {
             margin-top: 10px;
         }
-    </style>ñl
+    </style>
 </head>
 <body>
 
